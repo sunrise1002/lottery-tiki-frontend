@@ -185,7 +185,7 @@ function App() {
                 </label>
                 <input type="submit" value="Bet" />
               </form>
-              If this is your first time playing, you must have approved the token before you can bet.
+              Before you can bet if this is your first time playing, you must approve the token.
             </>
           )
         }
